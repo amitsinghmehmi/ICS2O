@@ -1,0 +1,27 @@
+from time import sleep
+
+
+print("                   MONEY BOARD")
+sleep(0.7)
+print("                  -------------")
+sleep(1)
+print("               Level 1  |  $1,000")
+sleep(1)
+print("               Level 2  |  $3,000")
+sleep(1)
+print("               Level 3  |  $5,000")
+sleep(0.7)
+print("               Level 4  |  $10,000")
+sleep(0.7)
+print("               Level 5  |  $15,000")
+sleep(0.7)
+print("               Level 6  |  $30,000")
+sleep(0.5)
+print("               Level 7  |  $60,000")
+sleep(0.5)
+print("               Level 8  |  $100,000")
+sleep(0.5)
+print("               Level 9  |  $500,000")
+sleep(0.5)
+print("             Level 10   |  $1,000,000")
+ 
